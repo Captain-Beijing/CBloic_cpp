@@ -18,7 +18,8 @@ any question, also feel free to ask, I will respond accordingly.
 
 # USAGE
 
-g++ loic_cpp.cpp -o loic_cpp -pthread
-./loic_cpp <target_IP> <thread_number> 
+compile:  g++ loic_cpp.cpp -o loic_cpp -pthread
+
+attack:  ./loic_cpp <target_IP> <thread_number> 
 
 pretty much it, enjoy.
